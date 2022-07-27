@@ -1,0 +1,25 @@
+function fibonacciGenerator (n) {
+//Do NOT change any of the code above 👆
+    
+    //Write your code here:
+    var fibo = [0, 1];
+    if (n == 1 || n == 2) {
+        fibo = fibo.slice(0, n);
+    } else {
+        for (var i = 2; i < n; i++) {
+            fibo.push(fibo[i-1]+fibo[i-2]);
+        }
+    }
+    
+    
+    return fibo;
+    
+    
+    
+    
+    
+    
+    //Return an array of fibonacci numbers starting from 0.
+    
+//Do NOT change any of the code below 👇
+}
