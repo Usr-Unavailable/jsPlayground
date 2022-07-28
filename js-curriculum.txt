@@ -1,0 +1,13 @@
+Chapters	Content		Days	Dates
+========	=======		====	=====
+2-3		HTML5		
+4-5		CSS3
+6-7		Bootstrap4
+9-13		ES6		1-3	Jul 26-28
+14		jQuery		4	Jul 29
+17		Backend Dev	4	Jul 29
+18		Node.js		5	Aug 02
+19		Express.js	5	Aug 02
+20		API		6	Aug 03
+26		MongoDB		7	Aug 03
+33		React.js	8-11	Aug 04-05 08-09
