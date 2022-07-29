@@ -4,4 +4,4 @@ function Maid(yearsOfExperience, name, cleaningRepertoire) {
   this.cleaningRepertoire = cleaningRepertoire;
   this.clean = function() {
     alert("Ask Wendy for Help!");
-};
+}
